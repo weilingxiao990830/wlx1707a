@@ -1,0 +1,8 @@
+i
+public class Test{
+	private Integer username;
+	private String password;
+	private String code;
+
+
+}
